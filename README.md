@@ -35,6 +35,7 @@ This system provides users with a secure and intuitive interface for everyday ba
 
 ## Project Structure
 
+```text
 ├── bank2/                         # Frontend application (React)
 │   ├── src/components/            # Reusable UI components
 │   ├── src/pages/                 # Application pages (Auth, Dashboard, Cards, etc.)
