@@ -1,12 +1,12 @@
 # Bank System - Fullstack Application
 
+A professional web application designed for managing bank accounts, cards, and financial transactions. The project features a complete full-stack architecture, split into a client-side application (React) and a server-side backend (Spring Boot).
+
 ## Contributors
 * [Yuliya Urazovskaya](https://github.com/urazovskayayuliya) — Backend Developer
 * [Kamil Zeynalli](https://github.com/uncleb0gdan) — Backend Developer (otp) 
 * [Ibrahim Alakbarov](https://github.com/selbstzerstorung) — Frontend Developer
 * [Nihad Masmaliyev](https://github.com/Tresm0k) — Backend Developer
-
-A professional web application designed for managing bank accounts, cards, and financial transactions. The project features a complete full-stack architecture, split into a client-side application (React) and a server-side backend (Spring Boot).
 
 ## Description
 
